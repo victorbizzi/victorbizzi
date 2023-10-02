@@ -1,7 +1,7 @@
 # Who is Victor?
 <br>👋 I am Victor Bizzi Melo and I am a Software Test Engineer</br>
 <br>📍  I am from Brazil (São Paulo) and currently living in Porto (Portugal)</br>
-<br>🛂 I am an Italian-Brazilian citizen (My grandarents were from north Italy)</br>
+<br>🛂 I am an Italian-Brazilian citizen (My grandparents were from north Italy)</br>
 
 <br>My career as Software Tester started in 2016 as Functional Mobile Tester and in 2019 I had my first experience that was possible to be immersed in the Software Testing field.
 I have worked with many tools in the past, but currently, I am focusing my career in Test Automation using Java - Selenium WebDriver, Postman (creating test scripts, working with variables and using Newman) and Performance Testing using JMeter.
