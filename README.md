@@ -21,7 +21,6 @@ My **language** skills include:
   - **German**:  _B1_: Speaking,
                  _B2_: Reading, Writing and Listening
 
-I am planning to stay in Ireland for several months to improve my English
 
 # Short Profile
 <br>**Experience with Test Automation** Robot Framework [ API and UI ] - Selenium WebDriver and currently I am focusing my career in Test Automation with Java and API Tests</br>
