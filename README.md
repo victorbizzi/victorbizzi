@@ -4,8 +4,8 @@
 <br>🛂 I am an Italian-Brazilian citizen (My grandparents were from north Italy)</br>
 
 <br>My career as Software Tester started in 2016 as Functional Mobile Tester and in 2019 I had my first experience that was possible to be immersed in the Software Testing field.</br>
-<br>I have worked with many tools in the past, but currently, I am focusing my career in Test Automation using Java - Selenium WebDriver and Postman (creating test scripts, working with variables and using Newman).</br>
-<br>I am easygoing, I like to travel, meet new people, learn new things and go to the gym.</br>
+<p>I have worked with many tools in the past, but currently, I am focusing my career in Test Automation using Java - Selenium WebDriver and Postman (creating test scripts, working with variables and using Newman).</p></br>
+<p>I am easygoing, I like to travel, meet new people, learn new things and go to the gym.</p></br>
 
 I hold the **certifications**:
   - ISTQB: CTFL
