@@ -31,6 +31,13 @@ My **language** skills include:
 # Technologies
   <a href="#" alt="SQL">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></a>
+
+  <a href="#" alt="Python">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+  
+
+
+
   
   <a href="#" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
