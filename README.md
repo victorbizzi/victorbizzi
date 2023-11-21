@@ -23,7 +23,7 @@ My **language** skills include:
 
 
 # Short Profile
-<br>**Experience with Test Automation** Robot Framework [ API and UI ] - Selenium WebDriver and currently I am focusing my career in Test Automation with Java and API Tests</br>
+<br>**Experience with Test Automation** Robot Framework [ API and UI ] - Selenium WebDriver</br>
 <br>**REST API Test Automation** using Postman (working with variables, TestScripts and Collections Runner and Robot Framework</br>
 <br>**Experience in Test Cases / Test Scenarios** writing, planning and managing in Azure DevOps, Jira and HP ALM</br>
 <br>**Manual Testing**: Web App, Desktop application, API and Database</br>
