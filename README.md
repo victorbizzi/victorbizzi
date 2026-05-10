@@ -12,7 +12,6 @@ QA Automation Engineer (SDET) with over 6 years of experience in manual and auto
 - **Automated Testing:** Creating test automation frameworks from scratch and integrating them into CI/CD pipelines, progressively increasing automated test coverage, reducing repetitive manual execution efforts and enabling QA teams to focus on exploratory testing and more complex business scenarios.
 
 <br>
-
 ### Technical Expertise
 
 - **Test Automation / Tools:** Python (Pytest, Requests, Behave), Selenium WebDriver, Robot Framework, Postman, JMeter, Locust *(academic knowledge)*
@@ -38,9 +37,7 @@ Comfortable working closely with developers, product owners and stakeholders, co
 Also experienced in supporting and mentoring junior QA engineers.
 
 <br>
-
 **Certifications:** ISTQB CTFL, EXIN Agile Scrum Foundation  
-**Languages:** Portuguese *(Native)*, English *(B2/C1)*, German *(B2)*
 <br>
 
 Currently open to Senior QA Automation / SDET roles across Portugal and Europe.
@@ -59,7 +56,6 @@ My **language** skills include:
                  _B2_: Speaking
   - **German**:  _B1_: Speaking,
                  _B2_: Reading, Writing and Listening
-
 
 # Short Profile
 <br>**Experience with Test Automation** Robot Framework [ API and UI ] - Selenium WebDriver - Python (Pytest) </br>
