@@ -36,10 +36,6 @@ Comfortable working closely with developers, product owners and stakeholders, co
 
 Also experienced in supporting and mentoring junior QA engineers.
 
-<br>
-**Certifications:** ISTQB CTFL, EXIN Agile Scrum Foundation  
-<br>
-
 Currently open to Senior QA Automation / SDET roles across Portugal and Europe.
 <br>
 
