@@ -7,28 +7,46 @@
 
 QA Automation Engineer (SDET) with over 6 years of experience in manual and automated testing for Web, API, Desktop applications and databases within Agile environments.
 
-- **Manual Testing:** Test case design, planning and execution for Web, API, Desktop applications and databases within Agile environments. Experience with functional, regression, exploratory and end-to-end testing, defect tracking, test reporting, Backend/Database validation using SQL Server and collaboration with cross-functional teams to ensure software quality.
+- **Manual Testing:** Test case design, planning and execution for Web, API, Desktop applications and databases within Agile environments. Experience with functional, regression, exploratory and end-to-end testing, defect tracking, test reporting, backend/database validation using SQL Server and collaboration with cross-functional teams to ensure software quality.
 
 - **Automated Testing:** Creating test automation frameworks from scratch and integrating them into CI/CD pipelines, progressively increasing automated test coverage, reducing repetitive manual execution efforts and enabling QA teams to focus on exploratory testing and more complex business scenarios.
 
-<br>Technical expertise includes:</br>
-- **Test Automation / Tools:** Python (Pytest, Requests, Behave), Selenium WebDriver, Robot Framework, Postman, JMeter, Locust (academic knowledge)
+<br>
+
+### Technical Expertise
+
+- **Test Automation / Tools:** Python (Pytest, Requests, Behave), Selenium WebDriver, Robot Framework, Postman, JMeter, Locust *(academic knowledge)*
+
 - **CI/CD & Reporting:** Git, GitHub Actions, Jenkins, Allure, Datadog, Grafana
-- **Test Management & Collaboration:** Azure DevOps, Jira, QASE, HP ALM, Agile (Scrum/Kanban)
-- **Database Testing:** SQL Server, SQL Profiler, Queries, Procedures validation
-- **API & Integration Testing:** REST APIs, JSON, Automated Endpoint Validation, BDD (Gherkin)
-- **Framework / Design:** Page Object Model (POM), Test Documentation, SOLID Principles (academic knowledge), Streamlit
-- **Certificates:** ISTQB: CFTL and Agile Scrum Foundation
-- **Other:** ComfyUI (AI image/video generation workflow tool), AutoCAD
 
-<br>Comfortable working closely with developers, product owners and stakeholders, contributing to test strategy, release validation, and continuous improvement of quality processes</br>
-<br>Also experienced in supporting and mentoring junior QA engineers</br>
+- **Test Management & Collaboration:** Azure DevOps, Jira, QASE, HP ALM, Agile *(Scrum/Kanban)*
 
-<br>Certifications: ISTQB CTFL, EXIN Agile Scrum Foundation</br>
-<br>Languages: Portuguese (Native), English (B2/C1), German (B2)</br>
+- **Database Testing:** SQL Server, SQL Profiler, Queries, Procedures Validation
 
-<br>Currently open to Senior QA Automation / SDET roles across Portugal and Europe</br>
-<br>I am easygoing, I like to travel, meet new people, learn new things and go to the gym.</br>
+- **API & Integration Testing:** REST APIs, JSON, Automated Endpoint Validation, BDD *(Gherkin)*
+
+- **Framework / Design:** Page Object Model *(POM)*, Test Documentation, SOLID Principles *(academic knowledge)*, Streamlit
+
+- **Certificates:** ISTQB CTFL, Agile Scrum Foundation
+
+- **Other:** ComfyUI *(AI image/video generation workflow tool)*, AutoCAD
+
+<br>
+
+Comfortable working closely with developers, product owners and stakeholders, contributing to test strategy, release validation and continuous improvement of quality processes.
+
+Also experienced in supporting and mentoring junior QA engineers.
+
+<br>
+
+**Certifications:** ISTQB CTFL, EXIN Agile Scrum Foundation  
+**Languages:** Portuguese *(Native)*, English *(B2/C1)*, German *(B2)*
+<br>
+
+Currently open to Senior QA Automation / SDET roles across Portugal and Europe.
+<br>
+
+I am easygoing, I like to travel, meet new people, learn new things and go to the gym.
 
 I hold the **certifications**:
   - ISTQB: CTFL
