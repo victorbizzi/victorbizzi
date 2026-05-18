@@ -61,28 +61,28 @@ My **language** skills include:
 
 ## Technologies / Tools
 
-### 🗄️ Databases / Programming Languages
-<img src="https://img.shields.io/badge/MICROSOFT%20SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+### Test Frameworks
+<img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROBOT%20FRAMEWORK-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+
+### Programming Languages
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/MICROSOFT%20SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORACLE%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ### UI Test Automation
-<img src="https://img.shields.io/badge/PLAYWRIGHT-45ba4b?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROBOT%20FRAMEWORK-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/PLAYWRIGHT-45ba4b?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 ### API Test Automation
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/NEWMAN-1E90FF?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 <img src="https://img.shields.io/badge/REQUESTS-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
-
-
-
 
 ### CI / DevOps / Test Management
 <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
